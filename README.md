@@ -1,22 +1,20 @@
 <!-- This markdown describies the final project by Paul Kallio for the Building of AI course, 
 that is created by Reaktor Innovations and University of Helsinki. -->
 
-# Project Title
-
-Football Team Builder
+# Football Team Builder
 
 ## Summary
 
-AI project to select players good enough to win the next game.
+AI project to create application, that is capable of select the team, that is good enough to win the next game.
 
 ## Background
 
-Idea is to give rest for overloaded players and make better use of reserve players as well. In many European top leagues this problem is encountered almost weekly by most of the teams. 
+Idea is to give rest for overloaded players and make better use of reserve players as well. In many European leagues this problem is encountered almost weekly by most of the teams. 
 Clubs are fighting for the money received from the league as well as from attendances, advertisers and media time.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+This solution is needed, when the game is not critical based on the opponent and the situation in the league is of great importance. Team management can use this as an aid, when they plan the next game. Approximation of the quality of the palyer can be used as a weight of position in the pitch. Vulnerabilities of the team in some areas can be used as an bias in calculation.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
