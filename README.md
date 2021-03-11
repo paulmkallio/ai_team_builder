@@ -3,15 +3,18 @@ that is created by Reaktor Innovations and University of Helsinki. -->
 
 # AI Team Builder
 
+Final project of Building AI course by Reaktor and University of Helsinki
+
 ## Summary
 
 The aim of this AI project is to create application, that is capable of select the team, that is good enough to execute the given task.
-<br /><br />
-![Team](https://github.com/paulmkallio/football_team_builder/blob/main/our_team.jpg)
 
 ## Background
 
 Most companies that work in teams have various resources containing key persons, inexperienced workers and bag of professionals with different technical knowledge. Also the tasks are different and competence needed to manage them variates. For example consultant company has few lead designers, some administrators and many programmers in UI and server side. Key players and other sparse resources are used only when needed and workload got to spread evenly to the others. This same applies to any business area using teams like construction companies.
+
+<br/ ><br/ >
+![Team](https://github.com/paulmkallio/ai_team_builder/blob/main/our_team.jpg)
 
 ## How is it used?
 
