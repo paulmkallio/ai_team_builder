@@ -1,20 +1,19 @@
 <!-- This markdown describies the final project by Paul Kallio for the Building of AI course, 
 that is created by Reaktor Innovations and University of Helsinki. -->
 
-# Football Team Builder
+# AI Team Builder
 
 ## Summary
 
-AI project to create application, that is capable of select the team, that is good enough to win the next game.
+AI project to create application, that is capable of select the team, that is good enough to execute the given task.
 
 ## Background
 
-Idea is to give rest for overloaded players and make better use of reserve players as well. In many European leagues this problem is encountered almost weekly by most of the teams. 
-Clubs are fighting for the money received from the league as well as from attendances, advertisers and media time.
+Most companies that work in teams have various resources with key persons, inexperienced workers and bag of professionals with different technical knowledge. Also the tasks are differenet and competence needed to manage them variates. For example consultant company has few lead designers, some administrators and many programmers UI and server side. Key players and other sparse resources are used only, when needed and workload got to speared evenly to the others. This same aplies to any business area usings teams like construction companies and also team sports. Football team can give rest for overloaded players and make better use of reserve players as well. In many European leagues this problem is encountered almost weekly by most of the teams. Clubs are fighting for the money received from the league as well as from attendances, advertisers and media time.
 
 ## How is it used?
 
-This solution is needed, when the game is not critical based on the opponent and the situation in the league is of great importance. Team management can use this as an aid, when they plan the next game. Approximation of the quality of the palyer can be used as a weight of position in the pitch. Vulnerabilities of the team in some areas can be used as an bias in calculation.
+This solution is needed expecially, when the next task is not critical based on the situation in the league is of great importance. Team management can use this as an aid, when they plan the next game. Approximation of the quality of the palyer can be used as a weight of position in the pitch. Vulnerabilities of the team in some areas can be used as an bias in calculation.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -43,7 +42,7 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Data used is taken from
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
