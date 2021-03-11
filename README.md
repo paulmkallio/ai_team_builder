@@ -6,7 +6,7 @@ that is created by Reaktor Innovations and University of Helsinki. -->
 ## Summary
 
 The aim of this AI project is to create application, that is capable of select the team, that is good enough to execute the given task.
-<br />
+<br /><br />
 ![Team](https://github.com/paulmkallio/football_team_builder/blob/main/our_team.jpg)
 
 ## Background
